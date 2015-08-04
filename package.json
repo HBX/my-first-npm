@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+  },
+  "name": "my-first-npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HBX/my-first-npm.git"
+  },
+  "author": "Blueskybin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HBX/my-first-npm/issues"
+  },
+  "homepage": "https://github.com/HBX/my-first-npm#readme"
+}
